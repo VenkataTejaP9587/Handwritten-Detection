@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+.env.*
+*.env
+
+# VS Code
+.vscode/
+
+# Data and models
+dataset/
+dataset_clean/
+model/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Notebook checkpoints
+*.ipynb_checkpoints
